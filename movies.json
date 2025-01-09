@@ -1,0 +1,135 @@
+[
+    {
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "rating": 8.8,
+      "language": "English"
+    },
+    {
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "rating": 9.0,
+      "language": "English"
+    },
+    {
+      "title": "Interstellar",
+      "genre": "Sci-Fi",
+      "rating": 8.6,
+      "language": "English"
+    },
+    {
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "rating": 8.9,
+      "language": "English"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "rating": 9.3,
+      "language": "English"
+    },
+    {
+      "title": "The Godfather",
+      "genre": "Crime",
+      "rating": 9.2,
+      "language": "English"
+    },
+    {
+      "title": "The Avengers",
+      "genre": "Action",
+      "rating": 8.0,
+      "language": "English"
+    },
+    {
+      "title": "K.G.F: Chapter 1",
+      "genre": "Action, Drama",
+      "rating": 8.2,
+      "language": "Kannada"
+    },
+    {
+      "title": "RangiTaranga",
+      "genre": "Thriller, Mystery",
+      "rating": 8.1,
+      "language": "Kannada"
+    },
+    {
+      "title": "Ugramm",
+      "genre": "Action, Drama",
+      "rating": 8.2,
+      "language": "Kannada"
+    },
+    {
+      "title": "3 Idiots",
+      "genre": "Comedy, Drama",
+      "rating": 8.4,
+      "language": "Hindi"
+    },
+    {
+      "title": "Dangal",
+      "genre": "Biography, Drama",
+      "rating": 8.4,
+      "language": "Hindi"
+    },
+    {
+      "title": "Lagaan",
+      "genre": "Drama, Sport",
+      "rating": 8.1,
+      "language": "Hindi"
+    },
+    {
+      "title": "Zindagi Na Milegi Dobara",
+      "genre": "Drama, Comedy",
+      "rating": 8.1,
+      "language": "Hindi"
+    },
+    {
+      "title": "Baahubali: The Beginning",
+      "genre": "Action, Adventure",
+      "rating": 8.0,
+      "language": "Telugu"
+    },
+    {
+      "title": "Arjun Reddy",
+      "genre": "Drama, Romance",
+      "rating": 8.1,
+      "language": "Telugu"
+    },
+    {
+      "title": "Mahanati",
+      "genre": "Biography, Drama",
+      "rating": 8.5,
+      "language": "Telugu"
+    },
+    {
+      "title": "Eega",
+      "genre": "Fantasy, Thriller",
+      "rating": 7.8,
+      "language": "Telugu"
+    },
+    {
+      "title": "Vikram",
+      "genre": "Action, Thriller",
+      "rating": 8.4,
+      "language": "Tamil"
+    },
+    {
+      "title": "Super Deluxe",
+      "genre": "Drama",
+      "rating": 8.1,
+      "language": "Tamil"
+    },
+    {
+      "title": "Kaithi",
+      "genre": "Action, Thriller",
+      "rating": 8.5,
+      "language": "Tamil"
+    },
+    {
+      "title": "Enthiran (Robot)",
+      "genre": "Sci-Fi, Action",
+      "rating": 7.1,
+      "language": "Tamil"
+    }
+  ]
+  
