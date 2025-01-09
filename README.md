@@ -154,7 +154,7 @@ Technologies used in the project:
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2>📝 Contributing</h2>
-<p>We welcome contributions to improve this project! Please follow the <a href="contribution guidelines">CONTRIBUTING.md</a> to get started.</p>
+<p>We welcome contributions to improve this project! Please follow the <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> to get started.</p>
 
 If you're new to contributing, feel free to open an issue with your idea or suggestion.</p>
 
