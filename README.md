@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/CSS-3-yellow" alt="shields">
   <img src="https://img.shields.io/badge/Build-Passing-brightgreen" alt="shields">
   <img src="https://img.shields.io/badge/Code_Quality-A-success" alt="shields">
-  <img src="https://img.shields.io/github/last-commit/Shashankhuilgol/Movie_Recommender" alt="shields">
+  <img src="https://img.shields.io/github/last-commit/Shashankhuilgol/Movie_Recommendation_System" alt="shields">
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="shields"></p>
 
 <h2 align="" id="title">Project Structure:</h2>
