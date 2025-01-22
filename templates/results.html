@@ -12,13 +12,20 @@
         {% if error %}
             <p style="color: red;">{{ error }}</p>
         {% elif movies %}
-            <ul>
+            <div class="movie-cards">
                 {% for movie in movies %}
-                    <li>
-                        <strong>{{ movie.title }}</strong> - {{ movie.genre }} (Rating: {{ movie.rating }}) - Language: {{ movie.language }}
-                    </li>
+                    <div class="movie-card">
+                        <div class="movie-info">
+                            <h2>{{ movie.title }}</h2>
+                            <p><strong>Genre:</strong> {{ movie.genre }}</p>
+                            <p><strong>Rating:</strong> {{ movie.rating }}</p>
+                            <p><strong>Language:</strong> {{ movie.language }}</p>
+                        </div>
+                        <!-- Movie Poster Below Details -->
+                        <img src="{{ url_for('static', filename='movies cards/images/' + movie.poster) }}" alt="{{ movie.title }} poster" class="movie-poster">
+                    </div>
                 {% endfor %}
-            </ul>
+            </div>
         {% else %}
             <p>No movies found matching your criteria.</p>
         {% endif %}

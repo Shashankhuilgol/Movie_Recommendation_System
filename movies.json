@@ -3,133 +3,155 @@
       "title": "Inception",
       "genre": "Sci-Fi",
       "rating": 8.8,
-      "language": "English"
+      "language": "English",
+      "poster": "Inception.jpg"
     },
     {
       "title": "The Dark Knight",
       "genre": "Action",
       "rating": 9.0,
-      "language": "English"
+      "language": "English",
+      "poster": "The dark knight.jpg"
     },
     {
       "title": "Interstellar",
       "genre": "Sci-Fi",
       "rating": 8.6,
-      "language": "English"
+      "language": "English",
+      "poster": "Interstellar.jpg"
     },
     {
       "title": "Pulp Fiction",
       "genre": "Crime",
       "rating": 8.9,
-      "language": "English"
+      "language": "English",
+      "poster": "Pulp_fiction.jpg"
     },
     {
       "title": "The Shawshank Redemption",
       "genre": "Drama",
       "rating": 9.3,
-      "language": "English"
+      "language": "English",
+      "poster": "The shawshank redemption.jpg"
     },
     {
       "title": "The Godfather",
       "genre": "Crime",
       "rating": 9.2,
-      "language": "English"
+      "language": "English",
+      "poster": "The godfather.jpg"
     },
     {
       "title": "The Avengers",
       "genre": "Action",
       "rating": 8.0,
-      "language": "English"
+      "language": "English",
+      "poster": "The_Avengers.jpg"
     },
     {
       "title": "K.G.F: Chapter 1",
       "genre": "Action, Drama",
       "rating": 8.2,
-      "language": "Kannada"
+      "language": "Kannada",
+      "poster": "kgf.jpg"
     },
     {
       "title": "RangiTaranga",
       "genre": "Thriller, Mystery",
       "rating": 8.1,
-      "language": "Kannada"
+      "language": "Kannada",
+      "poster": "rangitaranga.jpg"
     },
     {
       "title": "Ugramm",
       "genre": "Action, Drama",
       "rating": 8.2,
-      "language": "Kannada"
+      "language": "Kannada",
+      "poster": "ugram.jpg"
     },
     {
       "title": "3 Idiots",
       "genre": "Comedy, Drama",
       "rating": 8.4,
-      "language": "Hindi"
+      "language": "Hindi",
+      "poster": "3-ediots.jpg"
     },
     {
       "title": "Dangal",
       "genre": "Biography, Drama",
       "rating": 8.4,
-      "language": "Hindi"
+      "language": "Hindi",
+      "poster": "dangal.jpg"
     },
     {
       "title": "Lagaan",
       "genre": "Drama, Sport",
       "rating": 8.1,
-      "language": "Hindi"
+      "language": "Hindi",
+      "poster": "laagan.jpg"
     },
     {
       "title": "Zindagi Na Milegi Dobara",
       "genre": "Drama, Comedy",
       "rating": 8.1,
-      "language": "Hindi"
+      "language": "Hindi",
+      "poster": "zindagi na milega dobara.jpg"
     },
     {
       "title": "Baahubali: The Beginning",
       "genre": "Action, Adventure",
       "rating": 8.0,
-      "language": "Telugu"
+      "language": "Telugu",
+      "poster": "Bahubali the beginning.jpg"
     },
     {
       "title": "Arjun Reddy",
       "genre": "Drama, Romance",
       "rating": 8.1,
-      "language": "Telugu"
+      "language": "Telugu",
+      "poster": "Arjun_Reddy.jpg"
     },
     {
       "title": "Mahanati",
       "genre": "Biography, Drama",
       "rating": 8.5,
-      "language": "Telugu"
+      "language": "Telugu",
+      "poster": "Mahanati.jpg"
     },
     {
       "title": "Eega",
       "genre": "Fantasy, Thriller",
       "rating": 7.8,
-      "language": "Telugu"
+      "language": "Telugu",
+      "poster": "eega.jpg"
     },
     {
       "title": "Vikram",
       "genre": "Action, Thriller",
       "rating": 8.4,
-      "language": "Tamil"
+      "language": "Tamil",
+      "poster": "vikram.jpg"
     },
     {
       "title": "Super Deluxe",
       "genre": "Drama",
       "rating": 8.1,
-      "language": "Tamil"
+      "language": "Tamil",
+      "poster": "Super deluxe.jpg"
     },
     {
       "title": "Kaithi",
       "genre": "Action, Thriller",
       "rating": 8.5,
-      "language": "Tamil"
+      "language": "Tamil",
+      "poster": "kaithi.jpg"
     },
     {
       "title": "Enthiran (Robot)",
       "genre": "Sci-Fi, Action",
       "rating": 7.1,
-      "language": "Tamil"
+      "language": "Tamil",
+      "poster": "enthiran.jpg"
     }
   ]
   
