@@ -1,7 +1,8 @@
 from flask import Flask, render_template, request
 import json
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static')
+
 
 # Load movie data
 with open("movies.json", "r") as file:
