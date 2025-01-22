@@ -244,7 +244,7 @@ a:hover {
 @media (max-width: 480px) {
     /* Adjust layout further for very small screens */
     .movie-poster {
-        height: 180px; /* Smaller images on very small screens */
+        height: 350px; /* Smaller images on very small screens */
     }
 
     .movie-title {

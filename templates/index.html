@@ -13,7 +13,12 @@
         <form action="/recommend" method="POST">
             <!-- Genre Filter -->
             <label for="genre">Genre:</label>
-            <input type="text" id="genre" name="genre" placeholder="Enter genre">
+            <select id="genre" name="genre">
+                <option value="">Select a genre</option>
+                {% for genre in genres %}
+                    <option value="{{ genre }}">{{ genre }}</option>
+                {% endfor %}
+            </select>
 
             <!-- Rating Filter -->
             <label for="rating">Minimum Rating:</label>
@@ -30,6 +35,18 @@
 
             <button type="submit">Get Recommendations</button>
         </form>
+
+        <!-- Results Section -->
+        <div class="results">
+            <h2>Recommended Movies</h2>
+            <ul>
+                {% for movie in movies %}
+                    <li>
+                        <strong>{{ movie.title }}</strong> - Genre: {{ movie.genre }} - Rating: {{ movie.rating }}
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
     </div>
 </body>
 </html>
