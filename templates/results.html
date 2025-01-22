@@ -23,7 +23,7 @@
                             <p><strong>Language:</strong> {{ movie.language }}</p>
                         </div>
                         <!-- Movie Poster Below Details -->
-                        <img src="{{ url_for('static', filename='movies cards/images/' + movie.poster) }}" alt="{{ movie.title }} poster" class="movie-poster">
+                        <img src="{{ url_for('static', filename='movies_cards/images/' + movie.poster) }}" alt="{{ movie.title }} poster" class="movie-poster">
                     </div>
                 {% endfor %}
             </div>

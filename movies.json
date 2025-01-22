@@ -11,7 +11,7 @@
       "genre": "Action",
       "rating": 9.0,
       "language": "English",
-      "poster": "The dark knight.jpg"
+      "poster": "The_dark_knight.jpg"
     },
     {
       "title": "Interstellar",
@@ -32,14 +32,14 @@
       "genre": "Drama",
       "rating": 9.3,
       "language": "English",
-      "poster": "The shawshank redemption.jpg"
+      "poster": "The_shawshank_redemption.jpg"
     },
     {
       "title": "The Godfather",
       "genre": "Crime",
       "rating": 9.2,
       "language": "English",
-      "poster": "The godfather.jpg"
+      "poster": "The_godfather.jpg"
     },
     {
       "title": "The Avengers",
@@ -95,14 +95,14 @@
       "genre": "Drama, Comedy",
       "rating": 8.1,
       "language": "Hindi",
-      "poster": "zindagi na milega dobara.jpg"
+      "poster": "zindagi_na_milega_dobara.jpg"
     },
     {
       "title": "Baahubali: The Beginning",
       "genre": "Action, Adventure",
       "rating": 8.0,
       "language": "Telugu",
-      "poster": "Bahubali the beginning.jpg"
+      "poster": "Bahubali_the_beginning.jpg"
     },
     {
       "title": "Arjun Reddy",
@@ -137,7 +137,7 @@
       "genre": "Drama",
       "rating": 8.1,
       "language": "Tamil",
-      "poster": "Super deluxe.jpg"
+      "poster": "Super_deluxe.jpg"
     },
     {
       "title": "Kaithi",
